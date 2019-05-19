@@ -1,4 +1,4 @@
-# Salary Prediction
+# Salary Bucket Prediction
 
 # Objective:
 
